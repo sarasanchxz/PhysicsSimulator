@@ -8,7 +8,7 @@ El proyecto sirve para probar modelos fisicos, visualizar los cuerpos y sus
 grupos desde una interfaz grafica, y generar resultados automaticamente desde
 la linea de comandos.
 <p align="center">
-  <img src="demo.gif" alt="Demo GUI" width="600">
+  <img src="demo.gif" alt="Demo GUI" width="400">
 </p>
 
 ## Funcionalidades
