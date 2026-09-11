@@ -7,8 +7,10 @@ calcula el estado del sistema paso a paso.
 El proyecto sirve para probar modelos fisicos, visualizar los cuerpos y sus
 grupos desde una interfaz grafica, y generar resultados automaticamente desde
 la linea de comandos.
+<p align="center">
+  <img src="demo.gif" alt="Demo GUI" width="600">
+</p>
 
-![Demo GUI](demo.gif)
 ## Funcionalidades
 
 - Cuerpos estacionarios y cuerpos en movimiento.
