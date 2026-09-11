@@ -8,6 +8,7 @@ El proyecto sirve para probar modelos fisicos, visualizar los cuerpos y sus
 grupos desde una interfaz grafica, y generar resultados automaticamente desde
 la linea de comandos.
 
+![Demo GUI](demo.gif)
 ## Funcionalidades
 
 - Cuerpos estacionarios y cuerpos en movimiento.
